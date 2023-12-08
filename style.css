@@ -1,0 +1,23 @@
+.corpo{
+    background-color: chartreuse;
+    color: lightcoral;
+    text-align: center;
+    border: 38px;
+    border-style: groove;
+    border-color: limegreen;
+}
+
+ p{
+    color: navy;
+    font-size: 19px;   
+ }
+
+ #link{
+    color: brown;
+    text-decoration: none;
+ }
+
+ #link{
+    color: gold;
+    font-size: 17px;
+ }
